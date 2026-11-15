@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b56454f7-a168-4548-951d-97ed4a663756" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/benchmark.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ingestion.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ingestion.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="17" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="README" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Tibaut67&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Tibaut67/geospatial-alert-engine.git&quot;,
+    &quot;accountId&quot;: &quot;b1a00174-88fb-4c7c-9071-54f7ffb935fb&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.784456247632911" />
+      <entry key="MS500" value="4.256268575696857" />
+      <entry key="S2" value="6.114181197442303" />
+      <entry key="S5" value="7.431142386493557" />
+      <entry key="S10" value="9.199638139433173" />
+      <entry key="S30" value="11.880598042783818" />
+      <entry key="S60" value="13.409536486279885" />
+      <entry key="M2" value="15.413445704347158" />
+      <entry key="M5" value="18.07586125894558" />
+      <entry key="M10" value="21.478092118891052" />
+      <entry key="M15" value="27.910227266333113" />
+      <entry key="M30" value="57.32529283056627" />
+      <entry key="H1" value="110.82924883552758" />
+      <entry key="H2" value="168.34116417282823" />
+      <entry key="H4" value="212.07769088146136" />
+      <entry key="D1" value="259.89820188824166" />
+      <entry key="W1" value="269.3791460282546" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="4.1214889399056117E-206" />
+      <entry key="S10" value="3.121394111818543E-103" />
+      <entry key="S30" value="1.8238680311214596E-34" />
+      <entry key="S60" value="3.4885102443539825E-17" />
+      <entry key="M2" value="1.683929347163252E-8" />
+      <entry key="M5" value="0.00319298569710473" />
+      <entry key="M10" value="0.22295501415509614" />
+      <entry key="M15" value="0.99566252161807" />
+      <entry key="M30" value="4.826456014984014" />
+      <entry key="H1" value="11.149847885008949" />
+      <entry key="H2" value="17.23351495095074" />
+      <entry key="H4" value="21.531823696470504" />
+      <entry key="D1" value="25.9937687778096" />
+      <entry key="W1" value="26.85372595550763" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.7597979770824477" />
+      <entry key="MS500" value="4.243096908747764" />
+      <entry key="S2" value="6.109128154706878" />
+      <entry key="S5" value="7.428447172898468" />
+      <entry key="S10" value="9.19778456559589" />
+      <entry key="S30" value="11.87971746792981" />
+      <entry key="S60" value="13.409010568597482" />
+      <entry key="M2" value="15.413119079320156" />
+      <entry key="M5" value="18.07881045001521" />
+      <entry key="M10" value="21.699313893999857" />
+      <entry key="M15" value="28.901294089979082" />
+      <entry key="M30" value="62.14039870622988" />
+      <entry key="H1" value="121.96480620826841" />
+      <entry key="H2" value="185.56285107372415" />
+      <entry key="H4" value="233.60181558404835" />
+      <entry key="D1" value="285.89036211248447" />
+      <entry key="W1" value="296.2326329757365" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: true
+}</component>
+  <component name="ProjectId" id="3KOI7H5rR6fFnv1IBwfJiFh0tCW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.benchmark.executor": "Run",
+    "Python.ingestion.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/tibau/Python/PythonArcGIS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "ml.llm.AcpAgentsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tibau\Python\PythonArcGIS" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.benchmark">
+    <configuration name="benchmark" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="geospatial-alert-engine" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="RUN_AS_SCRIPT" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/benchmark.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ingestion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="geospatial-alert-engine" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="RUN_AS_SCRIPT" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ingestion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.benchmark" />
+        <item itemvalue="Python.ingestion" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-56aff7b04f6f-JavaScript-PY-263.7307.206" />
+        <option value="bundled-python-sdk-34611be1ca5a-e0583fc556d1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-263.7307.206" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b56454f7-a168-4548-951d-97ed4a663756" name="Changes" comment="" />
+      <created>1791422018827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791422018827</updated>
+      <workItem from="1791422020014" duration="9586000" />
+      <workItem from="1791520781186" duration="2412000" />
+      <workItem from="1791523677750" duration="34000" />
+      <workItem from="1791523737232" duration="698000" />
+      <workItem from="1792283612015" duration="252000" />
+      <workItem from="1794707450987" duration="1156000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: implement real-time geospatial earthquake alert engine&#10;&#10;- Ingest live seismic hazard data from USGS GeoJSON REST feed&#10;- Model spatial assets and hazard events using typed dataclasses&#10;- Calculate geodesic proximity with offline WGS84 Haversine formula&#10;- Deduplicate dispatched alerts using O(1) in-memory compound keys&#10;- Orchestrate end-to-end detection pipeline in main application runner">
+      <option name="closed" value="true" />
+      <created>1791432222454</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1791432222454</updated>
+    </task>
+    <task id="LOCAL-00002" summary="docs: expand architecture, geodesy math, and scaling decisions in README">
+      <option name="closed" value="true" />
+      <created>1791432522427</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1791432522427</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: implement real-time geospatial earthquake alert engine&#10;&#10;- Ingest live seismic hazard data from USGS GeoJSON REST feed&#10;- Model spatial assets and hazard events using typed dataclasses&#10;- Calculate geodesic proximity with offline WGS84 Haversine formula&#10;- Deduplicate dispatched alerts using O(1) in-memory compound keys&#10;- Orchestrate end-to-end detection pipeline in main application runner" />
+    <MESSAGE value="docs: expand architecture, geodesy math, and scaling decisions in README" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs: expand architecture, geodesy math, and scaling decisions in README" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/geospatial_alert_engine$main.coverage" NAME="main Coverage Results" MODIFIED="1791429735057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/geospatial_alert_engine$benchmark.coverage" NAME="benchmark Coverage Results" MODIFIED="1794714580528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/geospatial_alert_engine$ingestion.coverage" NAME="ingestion Coverage Results" MODIFIED="1791429106559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+  </component>
+</project>

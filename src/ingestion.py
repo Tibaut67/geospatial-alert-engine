@@ -24,6 +24,5 @@ class USGSIngestionService:
                 latitude=float(coords[1]),
                 timestamp=int(props.get("time", 0)),
             )
-        hazards.append(hazard)
-
+            hazards.append(hazard)
         return hazards
